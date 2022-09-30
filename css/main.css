@@ -1,26 +1,12 @@
-.sh-color {
-  color:#005b82;
-  background-color:#005b82;
-}
 
-.w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#005b82!important}
-.w3-text-aqua,.w3-hover-text-aqua:hover{color:#005b82!important}
-.w3-border-aqua,.w3-hover-border-aqua:hover{border-color:#005b82!important}
+.w3-sh-color,.w3-hover-sh-color:hover{color:#000!important;background-color:#005b82!important}
+.w3-text-sh-color,.w3-hover-text-sh-color:hover{color:#005b82!important}
+.w3-border-sh-color,.w3-hover-border-sh-color:hover{border-color:#005b82!important}
 
-.bg {
+.bgimg {
   background-image: url("/assets/laru.png");
-  background-size: contains;
-  width: 300px;
-  height: 300px;
+  background-size: cover;
+  background-position: center;
+  min-height: 100%;
 }
-
-/* For width 600px and larger: */
-@media only screen and (min-device-width: 600px) {
-    .bg {
-      background-image: url("/assets/laru.png");
-      background-size: contains;
-      width: 300px;
-      height: 300px;
-    }
-  }
 
