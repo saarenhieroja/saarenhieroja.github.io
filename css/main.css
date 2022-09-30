@@ -5,7 +5,8 @@
 
 .bgimg {
   background-image: url("/assets/laru.png");
-  background-size: cover;
+  object-fit:cover;
+  object-position: right;
   height: 200px;
   width: 100%;
 }
