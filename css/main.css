@@ -4,11 +4,10 @@
 .w3-border-sh-color,.w3-hover-border-sh-color:hover{border-color:#005b82!important}
 
 .bgimg {
-  background-image: url("/assets/laru.png");
+  background-image: url("/assets/larulogolla.png");
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: contains;
-  height: 188px;
+  background-size: cover;
+  height: 200px;
   width: 100%;
 }
 
