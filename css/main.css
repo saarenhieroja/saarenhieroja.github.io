@@ -4,7 +4,7 @@
 .w3-border-sh-color,.w3-hover-border-sh-color:hover{border-color:#005b82!important}
 
 .bgimg {
-  background-image: url("/assets/laru-logolla.png");
+  background-image: url("/assets/laru-logolla.jpg");
   background-position: center;
   background-size: cover;
   height: 200px;
@@ -12,7 +12,7 @@
 }
 
 .sh-image {
-  background-image: url("/assets/laru-logolla.png");
+  background-image: url("/assets/laru-logolla.jpg");
   background-color: #cccccc;
   height: 200px;
   background-position: center;
