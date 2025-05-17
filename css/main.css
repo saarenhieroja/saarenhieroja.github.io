@@ -31,4 +31,6 @@ a {
   color: #005b82!important;           /* Tekee linkistä sinisen */
 }
 
-
+sup {
+  font-size: larger;
+}
